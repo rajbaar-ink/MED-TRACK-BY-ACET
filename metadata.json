@@ -1,0 +1,6 @@
+{
+  "name": "MedTrack",
+  "description": "MedTrack is an offline-first medication reminder, doctor Appointment, and medical report tracking app featuring an AI assistant for health insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
